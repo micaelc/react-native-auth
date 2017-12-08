@@ -28,8 +28,6 @@ class App extends Component {
     }
 }
 
-const styles = {};
-
 // Make component available to other parts os the app
 export default App;
 
